@@ -65,7 +65,7 @@ The initial Moderation Team is defined to be @grahamc, @zimbatm, @domenkozar, an
 # Alternatives
 [alternatives]: #alternatives
 
-* An existing [RFC 98](https://github.com/NixOS/rfcs/pull/98).
+* An existing [RFC 98][].
 * [Contributor Covenant](https://www.contributor-covenant.org/)
 * Do nothing.
 
@@ -80,3 +80,11 @@ The initial Moderation Team is defined to be @grahamc, @zimbatm, @domenkozar, an
 
 * A potential RFC providing additional guidance and detail for the moderation
   team's activities and functions.
+* The role of the moderation team could evolve through an RFC not unilike [RFC 98][]
+  into taking a broader community leadership responsibility as a 'Leadership Team'
+  or 'Community Team'.
+* We might need to further evolve our Community Governance by adopting typical
+  governance tools, such as Statements of Values, and others in order to provide
+  better guiding principles to our community's "living together".
+ 
+[RFC 98]: https://github.com/NixOS/rfcs/pull/98
